@@ -1,0 +1,6 @@
+C:\Users\fatih.karahan\Documents\GitHub\my-projectts\_vaka\_vaka\bin\Debug\_vaka.exe.config
+C:\Users\fatih.karahan\Documents\GitHub\my-projectts\_vaka\_vaka\bin\Debug\_vaka.exe
+C:\Users\fatih.karahan\Documents\GitHub\my-projectts\_vaka\_vaka\bin\Debug\_vaka.pdb
+C:\Users\fatih.karahan\Documents\GitHub\my-projectts\_vaka\_vaka\obj\Debug\_vaka.csprojResolveAssemblyReference.cache
+C:\Users\fatih.karahan\Documents\GitHub\my-projectts\_vaka\_vaka\obj\Debug\_vaka.exe
+C:\Users\fatih.karahan\Documents\GitHub\my-projectts\_vaka\_vaka\obj\Debug\_vaka.pdb
